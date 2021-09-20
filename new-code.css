@@ -1,0 +1,489 @@
+body{
+    background-color: black;
+}
+
+
+#square{
+    width: 755px;
+    height: 350px;
+    background-color: #0E49B5;
+    border-radius: 50px 50px 0px 0px;
+      
+}
+
+#square1{
+    width: 100px;
+    height: 60px;
+    background-color: #F8485E;
+    border-radius: 50px 0px 20px 15px;
+
+}
+
+#square2{
+    width: 120px;
+    height: 130px;
+    background-color: #FFE459;
+    transform: translate(635px, -60px);
+    border-radius: 0px 50px 30px 60px;
+
+}
+
+#square3{
+    width: 85px;
+    height: 60px;
+    background-color: #9EDE73;
+    transform: translate(500px, 10px);
+    border-radius: 25px 25px 0px 0px;
+
+}
+
+#square4{
+    width: 755px;
+    height: 860px;
+    background-color: white;
+    transform: translate(0px, -120px);
+    border-radius: 50px 50px 50px 50px;
+
+}
+
+#Amazon{
+    width: 100px;
+    height: 50px;
+    color: white;
+    transform: translate(210px, -175px);
+    font-family: C;
+    
+}
+
+#Amazon-logo{
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    transform: translate(120px, -225px);
+    border-radius: 100px;
+}
+
+#a{
+    width: 75px;
+    height: 75px;
+    color: #0E49B5;
+    transform: translate(145px, -330px);
+    border-radius: 100px;
+    font-family: a;
+    font-size: x-large;
+}
+
+#store{
+    width: 200px;
+    height: 75px;
+    color:white;
+    transform: translate(210px, -360px);
+    border-radius: 100px;
+    font-family: a;
+    font-size: large;
+    word-spacing: 5px;
+}
+
+#menu{
+    width: 755px;
+    height: 100px;
+    background-color: #FFE3E3;
+    transform: translate(0px , 0px);
+    border-radius: 50px 50px 0px 0px;
+}
+
+#box{
+    width: 135px;
+    height: 30px;
+    transform: translate(550px , -65px);
+    border-radius: 5px ;
+    border: 3px solid #E4D8DC;
+    
+}
+
+#box1{
+    width: 135px;
+    height: 30px;
+    transform: translate(395px , -101px);
+    border-radius: 5px ;
+    border: 3px solid #E4D8DC;
+    
+}
+
+#box2{
+    width: 135px;
+    height: 30px;
+    transform: translate(240px , -138px);
+    border-radius: 5px ;
+    border: 3px solid #E4D8DC;
+    
+}
+
+#portal{
+    width: 135px;
+    height: 30px;
+    font-family: C;
+    transform: translate(565PX , -188PX);
+    color: #B980F0;
+    cursor: pointer;
+    
+}
+
+#sponsor{
+    width: 135px;
+    height: 30px;
+    font-family: c;
+    transform: translate(423PX , -239PX);
+    color: #B980F0;
+    cursor: pointer;
+    
+}
+
+#follow{
+    width: 135px;
+    height: 30px;
+    font-family: C;
+    transform: translate(275PX , -290.5PX);
+    color: #B980F0;
+    cursor: pointer;
+}
+
+#human{
+    width: 8px;
+    height: 8px;
+    background-color: #0E49B5;
+    transform: translate(100.5PX , -312PX);
+    border-radius:10px;
+}
+
+#human1{
+    width: 15px;
+    height: 5px;
+    background-color: #0E49B5;
+    transform: translate(97PX , -310PX);
+    border-radius: 5px 5px 0px 0px;
+}
+
+#twok{
+    width: 15px;
+    height: 5px;
+    transform: translate(114.5PX , -324.5PX);
+    border-radius: 5px 5px 0px 0px;
+    font-family: a;
+}
+
+#home{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(100PX , -260px);
+    color: #F3F0D7;
+    cursor: pointer;
+    
+}
+
+#Overview{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(310PX , -310px);
+    color: black;
+    cursor: pointer;
+    
+}
+
+#Ntification{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(550PX , -360px);
+    color: #F3F0D7;
+    cursor: pointer;
+}
+
+#line{
+    width: 755px;
+    height: 1px;
+    font-family: a;
+    transform: translate(0PX , -330px);
+    background-color: #F3F0D7;
+}
+
+#line1{
+    width: 120px;
+    height: 4px;
+    font-family: a;
+    transform: translate(305px , -334px);
+    background-color: #50CB93;
+    border-radius: 5px;
+}
+
+#User{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(105PX , -310px);
+    color: black;
+    cursor: pointer;
+}
+
+#Aff{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(310.5PX , -360px);
+    color: #F3F0D7;
+    cursor: pointer;
+    
+}
+
+#Lo{
+    width: 55px;
+    height: 30px;
+    font-family: a;
+    transform: translate(550PX , -410px);
+    color: #F3F0D7;
+    cursor: pointer;
+}
+
+#line2{
+    width: 755px;
+    height: 1px;
+    font-family: a;
+    transform: translate(0PX , -370px);
+    background-color: #F3F0D7;
+}
+
+#line3{
+    width: 120px;
+    height: 4px;
+    font-family: a;
+    transform: translate(75px , -374px);
+    background-color: #FF616D;
+    border-radius: 5px;
+}
+
+#li{
+    width: 30px;
+    height: 2px;
+    transform: translate(645px , -343px);
+    background-color: #170055;
+    border-radius: 5px;
+}
+
+#li1{
+    width: 20px;
+    height: 3px;
+    transform: translate(649.5px , -338px);
+    background-color: #170055;
+    border-radius: 5px;
+}
+
+#li2{
+    width: 10px;
+    height: 3px;
+    transform: translate(655px , -333px);
+    background-color: #170055;
+    border-radius: 5px;
+}
+
+#Huo{
+    width: 100px;
+    height: 30px;
+    font-family: b;
+    transform: translate(180PX , -308px);
+    color: black;
+    font-size: large;
+}
+
+#Q{
+    width: 100px;
+    height: 30px;
+    font-family: b;
+    transform: translate(600PX , -360px);
+    color: black;
+    font-size: large;
+}
+
+#Circle{
+    width: 30px;
+    height: 30px;
+    transform: translate(560PX , -390px);
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+#profile{
+    width: 50px;
+    height: 50px;
+    transform: translate(105PX , -428px);
+    background-color: white;
+    border-radius: 100px;
+    box-shadow:1px 1px 2px 2px #F3F0D7;
+}
+
+#line4{
+    width: 490px;
+    height: 1px;
+    font-family: a;
+    transform: translate(175px , -400px);
+    background-color: #F3F0D7;
+    border-radius: 5px;
+}
+
+#Lizzie{
+    width: 150px;
+    height: 30px;
+    font-family: b;
+    transform: translate(180PX , -385px);
+    color: black;
+    font-size: large;
+}
+
+#Q1{
+    width: 100px;
+    height: 30px;
+    font-family: b;
+    transform: translate(600PX , -430px);
+    color: black;
+    font-size: large;
+}
+
+#Circle1{
+    width: 30px;
+    height: 30px;
+    transform: translate(560PX , -460px);
+    background-color: #FFE459;
+    border-radius: 100px;
+}
+
+#profile1{
+    width: 50px;
+    height: 50px;
+    transform: translate(105PX , -505px);
+    background-color: white;
+    border-radius: 100px;
+    box-shadow:1px 1px 2px 2px #F3F0D7;
+}
+
+#line5{
+    width: 490px;
+    height: 1px;
+    font-family: a;
+    transform: translate(175px , -470px);
+    background-color: #F3F0D7;
+    border-radius: 5px;
+}
+
+#Sadou{
+    width: 150px;
+    height: 30px;
+    font-family: b;
+    transform: translate(180PX , -450px);
+    color: black;
+    font-size: large;
+}
+
+#Q2{
+    width: 100px;
+    height: 30px;
+    font-family: b;
+    transform: translate(600PX , -500px);
+    color: black;
+    font-size: large;
+}
+
+#Circle2{
+    width: 30px;
+    height: 30px;
+    transform: translate(560PX , -528px);
+    background-color: #FF6B6B;
+    border-radius: 100px;
+}
+
+#profile2{
+    width: 50px;
+    height: 50px;
+    transform: translate(105PX , -570px);
+    background-color: white;
+    border-radius: 100px;
+    box-shadow:1px 1px 2px 2px #F3F0D7;
+}
+
+#Qoints{
+    width: 1200px;
+    height: 10px;
+    font-family: b;
+    transform: translate(110PX , -555px);
+    color: black;
+    font-size: large;
+}
+
+#total{
+    width: 1200px;
+    height: 10px;
+    font-family: a;
+    transform: translate(290PX , -580px);
+    color: black;
+    font-size: large;
+}
+
+
+#line6{
+    width: 520px;
+    height: 3px;
+    font-family: a;
+    transform: translate(110px , -540px);
+    background-color: #FFE459;
+    border-radius: 5px;
+}
+
+#home1{
+    width: 1200px;
+    height: 10px;
+    font-family: a;
+    transform: translate(130PX , -520px);
+    color: black;
+    font-size: large;
+}
+
+#Search{
+    width: 1200px;
+    height: 10px;
+    font-family: a;
+    transform: translate(330PX , -550px);
+    color: #F3F0D7;
+    font-size: large;
+}
+
+#profile3{
+    width: 1200px;
+    height: 10px;
+    font-family: a;
+    transform: translate(530PX , -582.5px);
+    color: #F3F0D7;
+    font-size: large;
+}
+
+#line7{
+    width: 100px;
+    height: 5px;
+    font-family: a;
+    transform: translate(118PX , -554px);
+    background-color: #FFE459;
+    
+}
+@font-face {
+    font-family: a;
+    src: url(font/arialbd.ttf);
+}
+
+@font-face {
+    font-family: c;
+    src: url(font/ariblk.ttf)
+}
+
+@font-face {
+    font-family: b;
+    src: url(font/segoeui.ttf)
+}
